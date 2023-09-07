@@ -10,6 +10,6 @@ Rescue Social Projects - Anti-Abuse & Data Analysis, Business/Community Aid, Res
 ● Elastic/Kibana, Machine Learning, Natural Language Understanding/NLP/NLU, AI, Data Science Visualizations, and Robots for Good<br>
 ● Finding anomalies, traits, and impact to well-being, awareness, legal cases, witnesses, analysis<br>
 ● Showing examples of Good, Compliments generation, Rescue Tech & research for others to build on<br>
-● Conveying to stakeholders, positive publicity, journalists<br>
+● Conveying to strengthen stakeholders, positive public relations, journalists<br>
 ● Projects on Abuse/Coercive Control - projects are accessible for understanding the complexities<br>
 ● Guides & Open Source Examples - available to impact other cases<br>
