@@ -1,4 +1,4 @@
 ## Welcome to Rescue Social
 Rescue Social Projects - Public Safety Improvements, Researching Social Influence, Anti-Abuse & Data Analysis, Business/Community Aid, and Social Dynamics of Victims and/or Public Figures
-● Investigations and Research - Outsourcing.
+● Investigation
 ● Guides & Open Source Examples - available to impact other cases
