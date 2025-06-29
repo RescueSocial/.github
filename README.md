@@ -1,7 +1,7 @@
 # .github
 ⚡Rescue Social - SERVICES FOR GOOD - Business/Community Aid &amp; Relations, Research, Investigate Operations, Data Analysis
 <br><br>
-Rescue Social Projects - Anti-Abuse & Data Analysis, Business/Community Aid, Researching Social Influence, and Operations on Victims of Public Figures
+Rescue Social Projects - Anti-Abuse & Data Analysis, Business/Community Aid, Researching Social Influence, Artists, Victims/Survivors/Witnesses, Public Figures
 ● Investigations and Research - Outsourcing.<br>
 - Collaborations for thorough investigations and security in multiple settings (also In-Person)<br>
 ● Social Network Analysis, and Data Science in Multiple Mediums, Environment of Persons-Victims-Witnesses-Parties-Entities, understanding Social Impact (Combining Perspectives, Empathy, Timelines, Socioeconomic)<br>
